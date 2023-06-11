@@ -35,50 +35,12 @@ Ao executar `docker-compose`, será criado os 3 perfís de usuários: Administra
 
 <br>
 
-> <h2 align="left">Telas</h2>
 
+> <h2 align="left">Executar Projeto Localmente</h2>
 <br>
 
-<table>
-  <tr>
-    <td width="300px">
-      <h2>Login</h2>
-      <img src="./images/login.png" alt="login-preview" />
-    </td>
-    <td width="300px">
-      <h2>Register</h2>
-      <img src="./images/register.png" alt="register-preview" />
-    </td>
-    <td width="300px">
-      <h2>Products</h2>
-      <img src="./images/products.png" alt="products-preview" />
-    </td>
-  </tr>
-  <tr>
-    <td  width="300px">
-      <h2>Checkout</h2>
-      <img src="./images/checkout.png" alt="checkout-preview" />
-    </td>
-    <td width="300px">
-      <h2>Order Details (Client)</h2>
-      <img src="./images/order-details.png" alt="order-details-preview" />
-    </td>
-    <td width="300px">
-      <h2>Orders List</h2>
-      <img src="./images/orders.png" alt="orders-preview" />
-    </td>
-  </tr>
-  <tr>
-    <td width="300px">
-      <h2>Order Details (Seller)</h2>
-      <img src="./images/seller-order-details.png" alt="seller-order-details-preview" />
-    </td>
-    <td width="300px">
-      <h2>User Management (Admin)</h2>
-      <img src="./images/admin.png" alt="admin-preview" />
-    </td>
-  </tr>
-</table>
+Basta executar o comando `npm start` na pasta de front-end e back-end.
+
 
 <br>
 
